@@ -1,0 +1,20 @@
+*{
+  /* outline: 1px solid red; */
+}
+
+body{
+  /* height: 100vh; */
+  background-image: url("../images/A-team.jpg");
+  background-size: cover;
+  background-position: top;
+  background-origin: border-box;
+  background-repeat: no-repeat;
+}
+
+.lighter-text{
+  color: #3c3c3c;
+}
+
+.soft-black{
+  color: #b1b2be;
+}
